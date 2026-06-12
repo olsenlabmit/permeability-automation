@@ -9,3 +9,6 @@ It was also used to generate publication Figures 5, 6 and 7.
 
 Data_Processing_for_Publication.ipynb was used to process calibrations, and reads in fits generated through the Kalman_Filtering_for_Publication code.
 It was used to generate Figures 2, 3, and 4.
+
+
+Code used to run the instruments and scale designs for custom parts are available in the respective folders.
